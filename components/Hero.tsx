@@ -31,7 +31,7 @@ export default function Hero() {
 
           <div className="mt-8 flex gap-4">
             <a
-              href="/resume.pdf"
+              href="/Resume.pdf"
               className="bg-cyan-500 px-6 py-3 rounded-lg"
             >
               Resume
